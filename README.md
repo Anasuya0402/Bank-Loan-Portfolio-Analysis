@@ -97,6 +97,7 @@ The dashboard presents:
 - DTI category analysis.
 - Home ownership and borrower characteristics.
 - Monthly loan trends.
+- [Bank Loan Portfolio Dashboard](Images/Bank_Loan_Dashboard.png)
 
 ### Key Dashboard Metrics
 
